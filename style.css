@@ -5,5 +5,14 @@ h1{
     font-size: 45px;
 }
 .name-highlight{
-    color:#ffa500
+    color:#f8b809
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+width: 60%;
 }
