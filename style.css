@@ -12,7 +12,7 @@ h2{
 p{
     color: dimgray;
 }
-.name-highlight{
+.green-highlight{
     color:#3ff312
 }
 .half-width{
@@ -44,4 +44,9 @@ section{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+}
+.Single-experience{
+    box-shadow: 10px 10px gray 40px;
+    border-radius: 5px;
+    height: 40%;
 }
